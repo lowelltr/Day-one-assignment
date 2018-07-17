@@ -1,0 +1,37 @@
+body {background-color: teal;
+}
+
+.buttons { 
+    text-align: right;
+    margin: .5%;
+}
+
+.h5 {
+    font-size: 500em;
+
+}
+
+.flexcontainer{
+    display: flex;
+    flex-direction: column;
+}
+
+p.Testimonial 1 { border-style: solid;
+}
+
+p.Testimonial 2 {
+    
+    border-color: green;
+    text-align: center;
+    color: red;
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.column1of3, .column2of3, .column3of3 {
+    width: 400px;
+    float: left;
+    margin: 0px
+}
